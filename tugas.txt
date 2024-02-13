@@ -1,0 +1,13 @@
+Tugas :
+Buat laporan : Cara melakukan commit pada git
+
+1. buat file todo.txt
+2. isi todo.txt (pagi, siang, malam)
+3. pindahkan ke staging area
+4. tambahkan to do list baru dan hapus list lama
+5. pindahkan ke staging area
+6. checkout ke commit todo.txt awal
+
+Format : Tugas 1_Git_Nama
+Format file : .pdf
+Kirim laporan + todo.txt
