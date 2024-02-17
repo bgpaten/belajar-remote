@@ -1,7 +1,6 @@
 Pagi :
-1. Sholat Shubuh
-2. Piket Pagi
-3. Sarapan
+1. Ma'surat
+2. Mandi
 
 Siang :
 1. Makan Siang
